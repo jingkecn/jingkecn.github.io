@@ -1,0 +1,18 @@
+title: J.K.'s Blog
+description: A personal blog about software engineering, AI, and more
+url: "https://jingkecn.github.io"
+baseurl: ""
+
+remote_theme: jekyll/minima
+minima:
+  show_excerpts: true
+  skin: dark
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+author:
+  name: J.K.
+
+show_excerpts: true
